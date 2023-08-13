@@ -1,0 +1,26 @@
+body{
+    background-color: #435B66;
+    font-family: Roboto Mono;
+}
+
+.boxShadow{
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+}
+
+.borderrTop{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.borderrBottom{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.btnn{
+    background-color: #435B66;
+    color: white;
+    font-size: 24px;
+    border: none;
+    border-radius: 8px;
+}
